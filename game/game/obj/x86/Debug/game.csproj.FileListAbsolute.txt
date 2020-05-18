@@ -1,0 +1,10 @@
+/home/saboori/Projects/game/game/bin/Debug/game.exe
+/home/saboori/Projects/game/game/bin/Debug/game.pdb
+/home/saboori/Projects/game/game/obj/x86/Debug/game.csprojAssemblyReference.cache
+/home/saboori/Projects/game/game/obj/x86/Debug/game.exe
+/home/saboori/Projects/game/game/obj/x86/Debug/game.pdb
+/home/saboori/Desktop/new folder/game/game/bin/Debug/game.exe
+/home/saboori/Desktop/new folder/game/game/bin/Debug/game.pdb
+/home/saboori/Desktop/new folder/game/game/obj/x86/Debug/game.csprojAssemblyReference.cache
+/home/saboori/Desktop/new folder/game/game/obj/x86/Debug/game.exe
+/home/saboori/Desktop/new folder/game/game/obj/x86/Debug/game.pdb
